@@ -146,7 +146,7 @@ echo -e "□ Current Domain      = $( cat /etc/xray/domain )"
 echo -e "□ Server IP           = ${IP}"
 echo -e "□ Clients Name        = $Name"
 echo -e "□ Exfire Script VPS   = $Exp"
-echo -e "□ Time Reboot VPS     = 00:00 ( Jam 12 Malam )"
+echo -e "□ Time Reboot VPS     = 00:00"
 echo -e "□ AutoScript Free By  = Mail Prabowo"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
@@ -168,7 +168,7 @@ echo -e " [${GREEN}06${NC}]${RED} •${NC} Trial Manager   $NC   [${GREEN}13${NC
 echo -e " [${GREEN}07${NC}]${RED} •${NC} Ganti Domain    $NC   [${GREEN}14${NC}]${RED} • ${NC}Reboot VPS $NC"
 echo -e " ${RED}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[44;1;39m                     ⇱ UMANITY PROJECT ⇲                      \E[0m"
+echo -e "\E[44;1;39m                     ⇱ MAIL PRABOWO ⇲                      \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 
 echo -e ""
