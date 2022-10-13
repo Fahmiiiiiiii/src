@@ -19,9 +19,9 @@ clear
 apt install jq curl -y
 DOMAIN=dxtxtr.me
 sub=$(</dev/urandom tr -dc a-z | head -c4)
-SUB_DOMAIN=${sub}.dxtxtr.me
-CF_ID=mulahkual@gmail.com
-CF_KEY=565df838cbdf80722e12eb5b1d7186143b74e
+SUB_DOMAIN=${sub}.faastore.my.id
+CF_ID=formlbbacc07@gmail.com
+CF_KEY=474fdae7cd5013d3a6151bcd1a2e14b5db85b
 set -euo pipefail
 IP=$(wget -qO- ipinfo.io/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."
