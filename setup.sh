@@ -290,7 +290,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ SCRIPT HAMBA ALLAH ]-===================="
+echo "=====================-[ SCRIPT MAIL PRABOWO ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -332,7 +332,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By HAMBA ALLAH ]-==============="
+echo "===============-[ Script Created By MAIL PRABOWO ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
