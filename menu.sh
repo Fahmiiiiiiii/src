@@ -168,7 +168,7 @@ echo -e " [${GREEN}06${NC}]${RED} •${NC} Trial Manager   $NC   [${GREEN}13${NC
 echo -e " [${GREEN}07${NC}]${RED} •${NC} Ganti Domain    $NC   [${GREEN}14${NC}]${RED} • ${NC}Reboot VPS $NC"
 echo -e " ${RED}"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
-echo -e "\E[44;1;39m                     ⇱ MAIL PRABOWO ⇲                      \E[0m"
+echo -e "\E[44;1;39m                     ⇱ MAIL PRABOWO ⇲                         \E[0m"
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 
 echo -e ""
