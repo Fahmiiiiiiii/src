@@ -147,7 +147,7 @@ echo -e "□ Server IP           = ${IP}"
 echo -e "□ Clients Name        = $Name"
 echo -e "□ Exfire Script VPS   = $Exp"
 echo -e "□ Time Reboot VPS     = 00:00"
-echo -e "□ AutoScript Free By  = Mail Prabowo"
+echo -e "□ AutoScript Premium  = Mail Prabowo"
 
 echo -e "${CYAN}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m${NC}"
 echo -e "\E[44;1;39m                     ⇱ STATUS LAYANAN ⇲                       \E[0m"
