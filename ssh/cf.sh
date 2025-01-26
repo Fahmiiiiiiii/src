@@ -17,9 +17,9 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 #MYIP=$(wget -qO- https://ipv6.icanhazip.com);
 clear
 apt install jq curl -y
-DOMAIN=faa4network.my.id
+DOMAIN=junedapps.web.id
 sub=$(</dev/urandom tr -dc a-z | head -c4)
-SUB_DOMAIN=${sub}.faa4network.my.id
+SUB_DOMAIN=${sub}.junedapps.web.id
 CF_ID=formlbbacc07@gmail.com
 CF_KEY=474fdae7cd5013d3a6151bcd1a2e14b5db85b
 set -euo pipefail
